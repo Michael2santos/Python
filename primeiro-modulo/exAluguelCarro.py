@@ -1,3 +1,4 @@
+import emoji #teste de importação e instalação de pacotes
 print('Digite os dados para ver o valor a pagar!')
 km = float(input('Quantos KMs você rodou? '))
 dias = int(input('Quantos dias você ficou com o carro? '))
