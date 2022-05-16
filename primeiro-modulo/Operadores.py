@@ -1,6 +1,4 @@
 #ordem de precedência
-
-
 #quebrar linha \n e para não quebrar end='vazio'
 n1 = input('Um valor')
 n2 = input('Outro valor')
